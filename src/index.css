@@ -1,0 +1,89 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f13232;
+  color: #212121;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 25px;
+}
+
+.DataContainer{
+    align-items: center;
+    margin-top: 30px;
+    background-color: #ccc;
+    border-radius: 30px;
+    box-shadow: #212121;
+    padding: 50px;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    background-color: #d32f2f;
+    font-size: xx-large;
+    text-align: center;
+    color: #790503;
+}
+
+h5{
+    text-align: center;
+    text-align: center;
+    color: #630b09;
+}
+
+button {
+  background-color: #ef5350;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px 5px 0 0;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #d32f2f;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+.scroll-box {
+  max-height: 150px;
+  overflow-y: auto;
+  border: 1px solid #e0e0e0;
+  background-color: #fafafa;
+  padding: 10px;
+  border-radius: 25px;
+  margin-top: 15px;
+}
+
+.CriesContainer{
+  border: #212121;
+  background-color: #857e7e;
+  border-width: 3px;
+  border-radius: 25px;
+  margin-top:  20px;
+  align-items: center;
+}
+
+.typeContainer{
+  align-content: center;
+  border: #212121;
+  border-radius: 30px;
+  background-color: #857e7e;
+}
