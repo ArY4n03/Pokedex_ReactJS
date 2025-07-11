@@ -1,8 +1,6 @@
 # 🧿 Pokédex - React App
 
-A simple Pokédex web app built with **ReactJS**, powered by the [PokéAPI](https://pokeapi.co/). This app allows you to browse Pokémon data like name, ID, weight, height, and sprites. Great for learning how to use APIs with React!
-
----
+A simple Pokédex web app built with **ReactJS**, powered by the [PokéAPI](https://pokeapi.co/). This app allows you to browse Pokémon data like name, ID, weight, height, and sprites.
 
 ## 🚀 Features
 
